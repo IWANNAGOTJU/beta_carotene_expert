@@ -36,3 +36,12 @@ All logic is transparent and easy to extend to other products.
 
 ## 📁 Project Structure
 
+beta_carotene_expert/
+├── data/ # Product classes and configuration files
+├── scripts/ # Core analysis scripts
+│ ├── classify_product.py
+│ ├── kegg_demo.py
+│ ├── yeast_mapping.py
+│ └── run_expert_system.py
+├── outputs/ # Generated analysis results (CSV / TXT / MD)
+└── README.md
