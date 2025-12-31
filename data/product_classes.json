@@ -1,0 +1,23 @@
+{
+  "isoprenoid": {
+    "keywords": ["carotene", "terpene", "isoprene", "farnesene"],
+    "precursor_pathway": "MVA",
+    "native_modules": ["ERG10", "ERG13", "HMG1", "ERG20", "BTS1"],
+    "heterologous_modules": ["crtE", "crtB", "crtI", "crtY"],
+    "notes": "High NADPH demand; sterol competition"
+  },
+  "fatty_acid_derivative": {
+    "keywords": ["fatty", "lipid", "alkanol", "fatty alcohol"],
+    "precursor_pathway": "FAS",
+    "native_modules": ["ACC1", "FAS1", "FAS2"],
+    "heterologous_modules": [],
+    "notes": "Malonyl-CoA and NADPH limiting"
+  },
+  "aromatic_compound": {
+    "keywords": ["phenyl", "vanillin", "shikimate"],
+    "precursor_pathway": "Shikimate",
+    "native_modules": ["ARO1", "ARO2", "ARO4"],
+    "heterologous_modules": [],
+    "notes": "Strong feedback inhibition"
+  }
+}

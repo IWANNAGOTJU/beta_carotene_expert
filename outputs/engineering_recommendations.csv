@@ -1,0 +1,15 @@
+module_type,gene,role,confidence
+heterologous,crtE,carotenoid biosynthesis core step,high
+heterologous,crtB,carotenoid biosynthesis core step,high
+heterologous,crtI,carotenoid biosynthesis core step,high
+heterologous,crtY,carotenoid biosynthesis core step,high
+native_enhancement,ERG10,IPP/DMAPP/FPP/GGPP precursor supply (MVA pathway),medium
+native_enhancement,ERG13,IPP/DMAPP/FPP/GGPP precursor supply (MVA pathway),medium
+native_enhancement,HMG1,IPP/DMAPP/FPP/GGPP precursor supply (MVA pathway),medium
+native_enhancement,HMG2,IPP/DMAPP/FPP/GGPP precursor supply (MVA pathway),medium
+native_enhancement,ERG12,IPP/DMAPP/FPP/GGPP precursor supply (MVA pathway),medium
+native_enhancement,ERG8,IPP/DMAPP/FPP/GGPP precursor supply (MVA pathway),medium
+native_enhancement,ERG19,IPP/DMAPP/FPP/GGPP precursor supply (MVA pathway),medium
+native_enhancement,IDI1,IPP/DMAPP/FPP/GGPP precursor supply (MVA pathway),medium
+native_enhancement,ERG20,IPP/DMAPP/FPP/GGPP precursor supply (MVA pathway),medium
+native_enhancement,BTS1,IPP/DMAPP/FPP/GGPP precursor supply (MVA pathway),medium

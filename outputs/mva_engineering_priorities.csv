@@ -1,0 +1,11 @@
+gene,role,engineering_tag,recommended_action
+ERG10,Acetyl-CoA acetyltransferase,non-essential,fine-tuning
+ERG13,HMG-CoA synthase,non-essential,fine-tuning
+HMG1,HMG-CoA reductase,rate-limiting,overexpression
+HMG2,HMG-CoA reductase isozyme,rate-limiting,overexpression
+ERG12,Mevalonate kinase,essential,fine-tuning
+ERG8,Phosphomevalonate kinase,essential,fine-tuning
+ERG19,Mevalonate diphosphate decarboxylase,essential,fine-tuning
+IDI1,IPP isomerase,important,fine-tuning
+ERG20,FPP synthase,branch-point,fine-tuning
+BTS1,GGPP synthase,target-directing,overexpression
